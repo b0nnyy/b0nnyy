@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Dawid ! 👋
 
 I'm a passionate **Game Developer** currently studying game development. I love working with **C#**, **Unreal Engine**, and **Ren'Py**, and I enjoy bringing game ideas to life! 🎮✨
@@ -26,13 +25,13 @@ I'm a passionate **Game Developer** currently studying game development. I love 
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dkarpinski44)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dkarpinski44/)
 
 ---
 
