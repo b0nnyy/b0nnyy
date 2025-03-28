@@ -2,6 +2,10 @@
 
 I'm a passionate **Game Developer** currently studying game development. I love working with **C#**, **Unreal Engine**, and **Ren'Py**, and I enjoy bringing game ideas to life! 🎮✨
 
+### Hi there, I'm [Your Name]! 👋
+
+I'm a passionate **Game Developer** currently studying game development. I love working with **C#**, **Unreal Engine**, and **Ren'Py**, and I enjoy bringing game ideas to life! 🎮✨
+
 ---
 
 ### 🚀 About Me:
@@ -25,17 +29,14 @@ I'm a passionate **Game Developer** currently studying game development. I love 
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YourDiscordServer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dkarpinski44)
 
 ---
 
-![Game Development](https://media.giphy.com/media/KV1k3sO6jtbz9c6Xha/giphy.gif)  
 *Let's create amazing games together!* 🚀🎮
