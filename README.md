@@ -1,6 +1,6 @@
 ### Hi there, I'm Dawid ! 👋
 
-I'm a passionate **Game Developer** currently studying game development. I love working with **C#**, **Unreal Engine**, and **Ren'Py**, and I enjoy bringing game ideas to life! 🎮✨
+I'm a passionate **Game Developer** currently studying game development. I love working with **C#**, **Unreal Engine**, and **C++**, and I enjoy bringing game ideas to life! 🎮✨
 
 ---
 
