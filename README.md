@@ -5,7 +5,7 @@ I'm a passionate **Game Developer** currently studying game development. I love 
 ---
 
 ### 🚀 About Me:
-- 🎮 Currently developing a **Arctic Facility**  in **Unreal Engine**
+
 - 🖥️ Experienced with **Git & GitHub (using Git LFS for game assets)**
 - 🌱 Always learning new technologies to improve my game dev skills
 - 🏋️‍♂️ Passionate about **fitness & healthy living**
